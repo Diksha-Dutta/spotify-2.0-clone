@@ -18,10 +18,8 @@ export default function Navbar() {
     <Link to="/album/workout" className="px-4 py-2 hover:bg-green-100">Workout</Link>
     <Link to="/album/romantic" className="px-4 py-2 hover:bg-green-100">Romantic</Link>
   </div>
-</span>
-        
-       
-      </div>
+</span>   
+ </div>
     </nav>
   );
 }
