@@ -12,6 +12,10 @@ Welcome to **Spotify 2.0 Clone** — a sleek, responsive music web app built wit
 - 💡 Light UI with Tailwind styling
 
 ---
+**Kindly note:**
+While searching for songs in search page / albums click on search button to get results 
+
+---
 ⚠️ **API Usage Note**
 This project uses the free Shazam Core API via RapidAPI. It has a **daily limit of 100 requests per API key**. To avoid hitting the limit:
 
